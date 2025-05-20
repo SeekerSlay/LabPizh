@@ -1,0 +1,16 @@
+﻿  LabPizhV3.cpp
+C:\Users\danya\source\repos\LabPizhV3\var1.cpp(31,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabPizhV3.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV3\var1.cpp(32,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabPizhV3.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV3\var1.cpp(33,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabPizhV3.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV3\var3.cpp(31,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabPizhV3.cpp")
+  
+  zashita.cpp
+  Создание кода...
+  LabPizhV3.vcxproj -> C:\Users\danya\source\repos\LabPizhV3\x64\Debug\LabPizhV3.exe

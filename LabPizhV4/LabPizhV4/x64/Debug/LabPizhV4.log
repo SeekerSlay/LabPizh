@@ -1,0 +1,8 @@
+﻿  LabPizhV4.cpp
+C:\Users\danya\source\repos\LabPizhV4\var2.cpp(17,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabPizhV4.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV4\var2.cpp(20,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabPizhV4.cpp")
+  
+  LabPizhV4.vcxproj -> C:\Users\danya\source\repos\LabPizhV4\x64\Debug\LabPizhV4.exe

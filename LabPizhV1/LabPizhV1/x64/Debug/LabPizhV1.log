@@ -1,0 +1,51 @@
+﻿  LabPizhV1.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+  (компиляция исходного файла "LabPizhV1.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  (компиляция исходного файла "LabPizhV1.cpp")
+  
+  var1.cpp
+  var10.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var10.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var10.cpp")
+  
+  var2.cpp
+  var3.cpp
+  var4.cpp
+  var5.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  var6.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var6.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var6.cpp")
+  
+  var7.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var7.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var7.cpp")
+  
+  var8.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var8.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var8.cpp")
+  
+  var9.cpp
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(6,15): warning C4091: static : пропускается слева от "Address", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var9.cpp")
+  
+C:\Users\danya\source\repos\LabPizhV1\var5.cpp(17,15): warning C4091: static : пропускается слева от "Buyer", когда ни одна переменная не объявлена
+  (компиляция исходного файла "var9.cpp")
+  
+  Создание кода...
+  LabPizhV1.vcxproj -> C:\Users\danya\source\repos\LabPizhV1\x64\Debug\LabPizhV1.exe
